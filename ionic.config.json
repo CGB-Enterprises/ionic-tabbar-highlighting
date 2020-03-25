@@ -1,5 +1,7 @@
 {
   "name": "tab-highlighting-demo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
